@@ -1,0 +1,10 @@
+# Результаты сборки
+build/
+cmake-build-*/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
